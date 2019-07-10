@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-02.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-02-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-02-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-02-sumofproduct.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-02-sumofproduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bankaccount.iml" filepath="$PROJECT_DIR$/.idea/modules/bankaccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fibonacci.iml" filepath="$PROJECT_DIR$/.idea/modules/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fibonacci -sources.iml" filepath="$PROJECT_DIR$/.idea/modules/fibonacci -sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/maxelement.iml" filepath="$PROJECT_DIR$/.idea/modules/maxelement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/maxelement -sources.iml" filepath="$PROJECT_DIR$/.idea/modules/maxelement -sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/shared-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stringinterpolation.iml" filepath="$PROJECT_DIR$/.idea/modules/stringinterpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stringinterpolation -sources.iml" filepath="$PROJECT_DIR$/.idea/modules/stringinterpolation -sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sumofproduct -sources.iml" filepath="$PROJECT_DIR$/.idea/modules/sumofproduct -sources.iml" />
+    </modules>
+  </component>
+</project>

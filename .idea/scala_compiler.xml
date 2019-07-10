@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+    <profile name="sbt 1" modules="Scala-02,Scala-02-sumofproduct,bankaccount,fibonacci,maxelement,stringinterpolation,sumofproduct" />
+  </component>
+</project>
